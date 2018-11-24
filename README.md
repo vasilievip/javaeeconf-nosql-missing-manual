@@ -1,6 +1,6 @@
 ## Nosql missing manual
 ### Contains common examples on how to deal with nosql database:
-* error handling patterns
+* error handling
 * optimistic locking 
 * pessimistic locking 
 * idempotency
