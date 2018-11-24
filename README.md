@@ -8,4 +8,4 @@
 * touching multiple keys w/o transactions
 * unique keys generation and atomic operations
 * dealing with expiring data
-* querying keys
+* querying multiple keys
